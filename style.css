@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(51, 54, 68);
+    color: rgb(148, 147, 147);
+    font-family: 'Nunito', sans-serif;
+}
+
+#game {
+    text-align: center;
+    margin-top: 150px;
+}
+
+#game input {
+    margin: 30px;
+    outline: none;
+    border: 2px solid rgb(38, 40, 49);
+    border-radius: 5px;
+    padding: 5px;
+}
